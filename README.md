@@ -60,7 +60,7 @@ The first loop will terminate once either all the correct spots are found, all t
 
 (1) 
 (Image 1)
-![Image](https://github.com/[junie75]/[SecretCodeGuessing]/blob/[master]/FormulaEx1.png?raw=true)
+![Image](FormulaEx1.png)
 
 Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 3 + 1 = 3
