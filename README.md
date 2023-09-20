@@ -1,6 +1,6 @@
 # SecretCodeGuessing
-
-Secret Code guessing is a c programming project made for Dr. Hanna's CS2315 Algorithms class at St. Mary's Universit of San Antonio
+***
+Secret Code guessing is a c programming project made in the Fall of 2022 for Dr. Hanna's CS2315 Algorithms class at St. Mary's University of San Antonio
 
 ## Purpose
 
@@ -59,19 +59,20 @@ The first loop will terminate once either all the correct spots are found, all t
 ## Formula examples
 
 (1) 
-(Image 1)
+![Image](FormulaEx1.png)
+
 Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 3 + 1 = 3
 * = correct spot
 
 (2)
-(Image 2)
+![Image](FormulaEx2.png)
 Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 1 + 1 = 5
 * = correct spot
 
 (3)
-(Image 3)
+![Image](FormulaEx3.png)
 Formula: Test positions correct =  n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 3 – 2 + 1 = 2
 * = correct spot
