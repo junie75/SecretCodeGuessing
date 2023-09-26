@@ -112,6 +112,63 @@ By choosing to test each position 1 at a time, a pattern arose and that is when 
 	test number of positions correct = n-positions + 1
 was found.
 
+## Installation
+To run a C program from a Git repository using Dev-C++, you need to follow these steps:
+
+**Prerequisites:**
+
+Before you start, ensure that you have the following prerequisites installed on your system:
+
+1. **Dev-C++:** Download and install the Dev-C++ IDE if you haven't already. You can get it from [https://sourceforge.net/projects/orwelldevcpp/](https://sourceforge.net/projects/orwelldevcpp/).
+
+2. **Git:** Make sure Git is installed on your computer. You can download it from [https://git-scm.com/](https://git-scm.com/).
+
+**Installation Instructions:**
+
+1. **Clone the Git Repository:**
+
+   Open a terminal or Git Bash and navigate to the directory where you want to clone the Git repository. Use the `cd` command to change to your desired directory.
+
+   ```bash
+   cd path/to/your/directory
+   ```
+
+   Clone the Git repository by running the following command, replacing `<repository-url>` with the URL of the Git repository:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+   You may need to enter your Git credentials if prompted.
+
+2. **Open the Project in Dev-C++:**
+
+   - Launch the Dev-C++ IDE on your computer.
+
+   - Go to "File" > "Open Project."
+
+   - Navigate to the directory where you cloned the Git repository and select the project file or the `.dev` or `.devp` file associated with the project.
+
+   - Click "Open" to load the project into Dev-C++.
+
+3. **Compile and Run the C Program:**
+
+   - In the Dev-C++ IDE, you will see a list of files in your project, including your C source code file(s).
+
+   - Double-click on the C source code file you want to run to open it in the code editor.
+
+   - Write or modify your C program as needed.
+
+   - Save your changes by going to "File" > "Save" or by pressing `Ctrl + S`.
+
+   - To compile your program, click on the "Execute" menu and select "Compile." Alternatively, press `F9`.
+
+   - If there are no compilation errors, you can run the program by clicking on the "Execute" menu and selecting "Run" or pressing `F10`.
+
+   - The output of your program will be displayed in the Dev-C++ IDE's console window.
+
+Congratulations! You have successfully cloned a Git repository and run a C program using Dev-C++. You can now work on and experiment with the C program in this environment. If you encounter any issues, refer to the troubleshooting section in the previous readme file for guidance.
+
 
 
 
