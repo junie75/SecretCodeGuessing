@@ -40,9 +40,9 @@ Bit Definition (techterms.com)
 (2) The next thing to note about this program is how the number of possible codes increases with the size of the bit string. 
 For the size of the string n, there are 2^n codes that the user could choose. 
 The picture below demonstrates the number of combinations if n = 6.
-
-There are 64 possible combinations for n = 6. <br>
 ![Image](n6Combinations.png)
+There are 64 possible combinations for n = 6. 
+
 
 ## Formula Explained
 There is a formula to determine if a 'spot' is in the user’s secret code
