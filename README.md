@@ -41,7 +41,7 @@ Bit Definition (techterms.com)
 For the size of the string n, there are 2^n codes that the user could choose. 
 The picture below demonstrates the number of combinations if n = 6.
 
-There are 64 possible combinations for n = 6.
+There are 64 possible combinations for n = 6. <br>
 ![Image](n6Combinations.png)
 
 ## Formula Explained
