@@ -2,6 +2,18 @@
 ***
 Secret Code guessing is a c programming project made in the Fall of 2022 for Dr. Hanna's CS2315 Algorithms class at St. Mary's University of San Antonio
 
+# Table of Contents
+
+1. [Purpose](#purpose)
+2. [Introduction](#introduction)
+3. [Formula Explained](#formula-explained)
+4. [Algorithm](#algorithm)
+5. [Formula Examples](#formula-examples)
+6. [Computational and Critical Thinking Question](#computational-and-critical-thinking-question)
+7. [Lessons Learned](#lessons-learned)
+8. [Installation](#installation)
+
+
 ## Purpose
 
 The purpose of this project is that it is a solution to this algorithmic problem:
