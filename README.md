@@ -40,8 +40,8 @@ Bit Definition (techterms.com)
 (2) The next thing to note about this program is how the number of possible codes increases with the size of the bit string. 
 For the size of the string n, there are 2^n codes that the user could choose. 
 The picture below demonstrates the number of combinations if n = 6.
-![Image](n6Combinations.png)
-There are 64 possible combinations for n = 6. 
+![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/n6Combinations.png)
+<br>There are 64 possible combinations for n = 6. 
 
 
 ## Formula Explained
@@ -71,20 +71,20 @@ The first loop will terminate once either all the correct spots are found, all t
 ## Formula examples
 
 (1) 
-![Image](FormulaEx1.png)
+![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx1.png)
 
 Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 3 + 1 = 3
 * = correct spot
 
 (2)
-![Image](FormulaEx2.png)
+![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx2.png)
 Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 1 + 1 = 5
 * = correct spot
 
 (3)
-![Image](FormulaEx3.png)
+![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx3.png)
 Formula: Test positions correct =  n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 3 – 2 + 1 = 2
 * = correct spot
