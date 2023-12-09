@@ -70,24 +70,22 @@ The first loop will terminate once either all the correct spots are found, all t
 
 ## Formula examples
 
-(1) 
-![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx1.png)
-
-Formula: Test positions correct = n – (positions correct first guess) + 1
+(1) ![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx1.png)
+<br>Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 3 + 1 = 3
-* = correct spot
+<br>(* = correct spot)
 
 (2)
 ![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx2.png)
-Formula: Test positions correct = n – (positions correct first guess) + 1
+<br>Formula: Test positions correct = n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 5 – 1 + 1 = 5
-* = correct spot
+<br>(* = correct spot)
 
 (3)
 ![Image](https://github.com/junie75/SecretCodeGuessing/blob/master/images/FormulaEx3.png)
-Formula: Test positions correct =  n – (positions correct first guess) + 1
+<br>Formula: Test positions correct =  n – (positions correct first guess) + 1
 Formula Applied: Test positions correct = 3 – 2 + 1 = 2
-* = correct spot
+<br>(* = correct spot)
 
 ## Computational and Critical Thinking Question
 ```
